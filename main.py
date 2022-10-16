@@ -3,12 +3,12 @@ Day 82: Portfolio Website
 """
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap
-from flask_ckeditor import CKEditor
+# from flask_ckeditor import CKEditor
 import csv
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '8BYkEfBA6O6donzWlSihBXox7C0sKR6b'
-ckeditor = CKEditor(app)
+# ckeditor = CKEditor(app)
 Bootstrap(app)
 
 # Connect to the CSV with project details
