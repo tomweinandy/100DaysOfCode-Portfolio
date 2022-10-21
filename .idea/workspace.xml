@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Add more even day pages">
+    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Add last of project pages, update other site elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day/copy.html" beforeDir="false" afterPath="$PROJECT_DIR$/day/98.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.csv" beforeDir="false" afterPath="$PROJECT_DIR$/projects.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +91,7 @@
       <workItem from="1666234133972" duration="1474000" />
       <workItem from="1666236844483" duration="2361000" />
       <workItem from="1666239398616" duration="1442000" />
-      <workItem from="1666318772728" duration="2894000" />
+      <workItem from="1666318772728" duration="3256000" />
     </task>
     <task id="LOCAL-00001" summary="Remove contact form">
       <created>1666236341290</created>
@@ -123,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666320662254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add last of project pages, update other site elements">
+      <created>1666322324458</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666322324458</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +150,7 @@
     <MESSAGE value="Restructure project" />
     <MESSAGE value="Add more day pages" />
     <MESSAGE value="Add more even day pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add more even day pages" />
+    <MESSAGE value="Add last of project pages, update other site elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add last of project pages, update other site elements" />
   </component>
 </project>
