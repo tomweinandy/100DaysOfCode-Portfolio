@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Update About Me section layout" />
+    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Update stats">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,8 @@
       <workItem from="1666236844483" duration="2361000" />
       <workItem from="1666239398616" duration="1442000" />
       <workItem from="1666318772728" duration="3450000" />
+      <workItem from="1666324663388" duration="184000" />
+      <workItem from="1666327871734" duration="4000" />
     </task>
     <task id="LOCAL-00001" summary="Remove contact form">
       <created>1666236341290</created>
@@ -132,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666322884196</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Update stats">
+      <created>1666324726227</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1666324726227</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +167,7 @@
     <MESSAGE value="Add more even day pages" />
     <MESSAGE value="Add last of project pages, update other site elements" />
     <MESSAGE value="Update About Me section layout" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update About Me section layout" />
+    <MESSAGE value="Update stats" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update stats" />
   </component>
 </project>
