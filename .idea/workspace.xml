@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Update stats">
+    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Update stats after uploading certificate of completion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/a_weinandy_in_london.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a_weinandy_in_london.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +95,9 @@
       <workItem from="1666318772728" duration="3450000" />
       <workItem from="1666324663388" duration="184000" />
       <workItem from="1666327871734" duration="4000" />
+      <workItem from="1666328240186" duration="572000" />
+      <workItem from="1666446919310" duration="1000" />
+      <workItem from="1666447082054" duration="420000" />
     </task>
     <task id="LOCAL-00001" summary="Remove contact form">
       <created>1666236341290</created>
@@ -143,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666324726227</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update stats after uploading certificate of completion">
+      <created>1666328282643</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1666328282643</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +180,7 @@
     <MESSAGE value="Add last of project pages, update other site elements" />
     <MESSAGE value="Update About Me section layout" />
     <MESSAGE value="Update stats" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update stats" />
+    <MESSAGE value="Update stats after uploading certificate of completion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update stats after uploading certificate of completion" />
   </component>
 </project>
