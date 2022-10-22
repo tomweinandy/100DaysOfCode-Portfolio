@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Update stats after uploading certificate of completion">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/a_weinandy_in_london.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/img/a_weinandy_in_london.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Crop hero photo, fix typo" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +44,10 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.89.html">
+    <configuration name="89.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/100DaysOfCodePortfolio/day/89.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/100DaysOfCodePortfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -76,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.89.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -97,7 +97,7 @@
       <workItem from="1666327871734" duration="4000" />
       <workItem from="1666328240186" duration="572000" />
       <workItem from="1666446919310" duration="1000" />
-      <workItem from="1666447082054" duration="420000" />
+      <workItem from="1666447082054" duration="572000" />
     </task>
     <task id="LOCAL-00001" summary="Remove contact form">
       <created>1666236341290</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666328282643</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Crop hero photo, fix typo">
+      <created>1666447552357</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666447552357</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +188,7 @@
     <MESSAGE value="Update About Me section layout" />
     <MESSAGE value="Update stats" />
     <MESSAGE value="Update stats after uploading certificate of completion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update stats after uploading certificate of completion" />
+    <MESSAGE value="Crop hero photo, fix typo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Crop hero photo, fix typo" />
   </component>
 </project>
