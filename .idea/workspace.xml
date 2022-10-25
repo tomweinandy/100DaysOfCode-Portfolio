@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Crop hero photo, fix typo" />
+    <list default="true" id="6276b47a-9849-4c7f-9ebe-3b95023b4405" name="Changes" comment="Fix day 89 photos not showing">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +100,7 @@
       <workItem from="1666328240186" duration="572000" />
       <workItem from="1666446919310" duration="1000" />
       <workItem from="1666447082054" duration="572000" />
+      <workItem from="1666447946697" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="Remove contact form">
       <created>1666236341290</created>
@@ -162,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666447552357</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Fix day 89 photos not showing">
+      <created>1666448086346</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1666448086346</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +199,7 @@
     <MESSAGE value="Update stats" />
     <MESSAGE value="Update stats after uploading certificate of completion" />
     <MESSAGE value="Crop hero photo, fix typo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crop hero photo, fix typo" />
+    <MESSAGE value="Fix day 89 photos not showing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix day 89 photos not showing" />
   </component>
 </project>
